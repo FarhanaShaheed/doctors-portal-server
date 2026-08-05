@@ -1,3 +1,5 @@
-node_modules
 .env
-doctors-portal-firebase-adminsdk.json
+.env.local
+.vercel
+doctors-portal-firebase-adminsdk.json/build
+node_modules
